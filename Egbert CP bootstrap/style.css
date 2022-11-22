@@ -1,0 +1,95 @@
+.navbar {
+    background-color: rgba(255, 255, 255, 0.776);
+}
+
+/* .sticky-top #navbar-example2 h2{
+    position: absolute;
+    margin-left: 350px;
+} */
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+    float: right;
+    margin: 5px;
+}
+
+li a {
+    text-decoration: none;
+    display: block;
+    color: rgb(53, 53, 53);
+    font-size: 20px;
+    padding: 13px 15px;
+}
+
+li a:hover {
+    text-decoration: overline;
+    font-size: 22px;
+}
+
+#carouselExampleControls {
+    margin-top: 90px;
+}
+
+.nav-item {
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.nav-item :hover {
+    color: white;
+    background-color: orange;
+    padding: 10px 15px;
+    border-radius: 15px;
+    height: 100%;
+} 
+
+.template{
+    width: 45%;
+    height: 20%;
+}
+
+.position-relative {
+    float: left;
+    margin: 27px;
+    
+}
+
+#scrollspyHeading3  {
+    margin-top: 300px;
+}
+
+
+.progress {
+    margin: 15px;
+}
+
+.background1 {
+    background-color: rgba(163, 161, 161, 0.272);
+}
+
+.background2 .row{
+    margin: 30px;
+    width: 50%;
+    align-items: center;
+}
+
+.form-control {
+    background: transparent;
+}
+
+.background2 {
+    background-color: rgba(163, 161, 161, 0.272);
+}
+div iframe {
+    float: right;
+    margin-right: 12px;
+    width: 500px;
+    height: 410px;
+}
